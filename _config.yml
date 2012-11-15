@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://kluikens.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Kevin Luikens
+subtitle: What am I working on now? <a href="http://freedomcp.com/" style="color:orange;">FreedomCP</a>
+author: Kevin Luikens
 simple_search: http://google.com/search
 description:
 
@@ -93,7 +93,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-6751593-1
 
 # Facebook Like
 facebook_like: false
